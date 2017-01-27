@@ -258,7 +258,7 @@ release, then M-x, release, and then l.
 
 ** Basic commands
 
-Table [[essential-emacs-commands]] gives the commands that are the most
+Table [[#essential-emacs-commands]] gives the commands that are the most
 important. This is a minimal set, commands that you should aim to
 learn as soon as possible. There are many more, which you will learn
 as you start using emacs.
