@@ -271,6 +271,7 @@ remember shortcuts for commands that I use most frequently. For
 others, I use the verbose versions. Over time, one learns more
 shortcuts and starts using them instead of the verbose versions.
 
+<<essential-emacs-commands>>
 #+CAPTION: Essential emacs commands
 #+NAME: essential-emacs-commands
 #+attr_latex: :environment longtable :align p{5cm}ll
@@ -1025,7 +1026,7 @@ org-export-dispatch~.
 
 ** Creating LaTeX and/or PDF files
 
-The file [[file:default-packages.org]] lists a set of LaTeX packages that
+The file [[file:default_packages.org]] lists a set of LaTeX packages that
 I normally use. Please modify this as you please, save it in a
 convenient location, and call it using a line of the following kind.
 
